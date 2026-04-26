@@ -1,1 +1,5 @@
-# Django-Shortcuts
+## Django Shortcuts
+```python
+- cls = Clear Screen
+```
+
