@@ -8,6 +8,6 @@
   code . = VS Code Open (Virtual Studio Code)
   mkdir = Make Directory (Create Folder)
   rd /s /q foldername = permanently folder delete
-  
+  ```
   
 
